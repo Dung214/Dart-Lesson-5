@@ -4,5 +4,5 @@ void main() {
   // open file
   File file = File('test.txt');
   file.writeAsStringSync('Welcome to test.txt file.');
-  print('File written.');
+  print('yah sure chac chan la nhu vay roi.');
 }
